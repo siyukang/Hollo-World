@@ -24,6 +24,7 @@ public class MailServiceTest {
     @Test
     public void testSimpleMail() throws Exception {
         mailService.sendSimpleMail("siyukang@shopin.cn","test simple mail"," hello this is simple mail");
+//        mailService.sendSimpleMail("siyukang@shopin.cn","test simple mail"," hello this is simple mail");
     }
 
     @Test
