@@ -26,5 +26,8 @@ public class FastDFSApplication {
         });
         return tomcat;
     }
+    public void test() {
+
+    }
 
 }
