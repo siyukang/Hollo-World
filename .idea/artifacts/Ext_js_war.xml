@@ -1,7 +1,7 @@
 <component name="ArtifactManager">
   <artifact type="war" name="Ext.js:war">
     <output-path>$PROJECT_DIR$/target</output-path>
-    <root id="archive" name="Ext.js.war">
+    <root id="archive" name="Ext.js-1.0-SNAPSHOT.war">
       <element id="artifact" artifact-name="Ext.js:war exploded" />
     </root>
   </artifact>

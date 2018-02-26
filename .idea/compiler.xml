@@ -10,7 +10,7 @@
       </profile>
     </annotationProcessing>
     <bytecodeTargetLevel>
-      <module name="Ext.js" target="1.5" />
+      <module name="Ext.js" target="1.8" />
     </bytecodeTargetLevel>
   </component>
 </project>
